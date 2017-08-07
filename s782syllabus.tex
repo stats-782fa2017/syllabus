@@ -1,0 +1,223 @@
+\documentclass[10pt]{article}
+% Include statements
+\usepackage{graphicx}
+\usepackage{amsfonts,amssymb,amsmath,amsthm}
+\usepackage[sort]{natbib}
+\usepackage[margin=1in]{geometry}
+\usepackage{pdfsync}
+\usepackage{hyperref}
+\hypersetup{backref,colorlinks=true,citecolor=blue,linkcolor=blue,urlcolor=blue}
+
+% Bibliography
+\bibliographystyle{mybibsty}
+
+\newcommand{\email}[1]{\href{mailto:#1}{#1}}
+
+
+
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{10pt}
+
+\begin{document}
+\noindent\textbf{\sc STAT-S 782
+        \hfill Syllabus
+        \hfill Fall 2017}
+\rule{6.5in}{1pt}
+
+\begin{center}
+{\bf {\Large STAT-S 782 -Topics: Statistical Learning Theory}}
+\end{center}
+
+\begin{tabbing}
+xxxxxxxxxxxxxxxxxxxxx \= xxxxxxxxxxxxxxxxxxxxxxxxx \= \kill
+{\bf Instructor:}  \> Daniel McDonald\\
+\> Office: BH 669\\
+\>Phone: 812-855-7828\\
+\> email: \email{dajmcdon@indiana.edu}\\
+ \\
+{\bf Office Hours:}  
+\> TBA \\
+\\
+{\bf Course Web Page:}  \> \url{http://mypage.iu.edu/~dajmcdon/teaching/2017fall/s782/}\\
+\\
+{\bf Lectures:} \>  TR 9:30--10:45, JH A105\\
+\\
+{\bf Text (recommended)}:\> \citet{Tsybakov2009,BoucheronLugosi2013}\\
+\\
+{\bf Prerequisite:} \>  A thorough understanding of statistics and
+probability at the graduate level\\
+\> (equivalent to STAT-S721--722) or permission of instructor.
+                     
+\end{tabbing}
+%\vspace{-0.3in}
+\rule{6.5in}{1pt}
+
+{\bf Course Objective}
+
+Statistical learning theory is a burgeoning research field at the
+intersection of probability, statistics, computer science, and
+optimization that studies the performance of computer algorithms for
+making predictions on the basis of training data. 
+
+The following topics will be covered: basics of statistical decision
+theory; concentration inequalities; supervised and unsupervised
+learning; empirical risk minimization; complexity-regularized
+estimation; generalization bounds for learning algorithms; VC
+dimension and Rademacher complexities; minimax lower bounds; online
+learning and optimization. 
+
+Along with the general theory, we will
+discuss a number of applications of statistical learning theory to
+signal processing, information theory, and adaptive control.
+
+{\bf Lectures}
+
+Class time will consist of a
+combination of lecture, discussion, questions and answers, and problem
+solving. You are strongly encouraged to attend lectures on a regular
+basis. 
+
+{\bf Textbook}
+
+The recommended textbook for this class is an excellent book, and it
+is widely considered {\em the} way to learn minimax theory. That said,
+it fails to cover many of the topics which we will treat. So
+additional material will come from the following sources as well as
+other places:
+\citet{vanweak,DevroyeGyorfi2013,
+  Vapnik1998,Geer2000}. 
+
+\clearpage
+
+{\bf Grading}
+
+10\% : Homework\\
+15\% : Scribe\\
+25\% : Paper presentations\\
+50\% : Project\\
+
+
+{\bf Homework}
+
+There will be 3--4 homework assignments during the semester to
+  practice (essentially 1 for each module). Late homework is 
+  unacceptable unless special arrangements are made. 
+
+Homeworks and their solutions will be available on the course
+  website. Please submit legible, stapled paper copies of your
+  homework. I will not accept electronic copies unless you have
+  cleared it with me in advance.
+
+I encourage you to discuss
+  assignments with other students.  The best way to work with others
+  on homework is to do as much as you can on your own before
+  discussing the problems. While I encourage you to work together, the
+  written solutions to homework problems must be your own and not
+  copied from someone else. You must give credit to all collaborators
+  on your assignments by listing the names of those collaborators.
+
+{\bf Scribe duties}
+
+Every lecture will have a designated scribe. The duties of the scribe
+are to take careful notes during class and then typset the notes in
+\LaTeX. I will provide a template for the notes with instructions. The
+typset notes will then be posted on the course website (following my
+edits) so that everyone may access them. The notes file will be due to
+me within one week of the lecture. The goal of the scribe is not only
+to take thorough notes but also to supplement them as needed with
+appropriate references or examples that they deem useful. 
+
+{\bf Paper presentations}
+
+I have chosen 15 papers from recent ML conferences which involve
+techniques we will cover in class. Each student will choose one to
+present during class for 20 minutes. We will discuss 1 paper per week
+and I will present the remainder. The goal here is to familiarize
+yourself with the sorts of topics and techniques which lead to a good
+conference paper. The goal is {\em not} to understand every step of
+every proof.
+
+
+{\bf Project}
+
+The following is a description of the minimal project necessary to do
+well in this course. As graduate students, your goal is to publish
+papers and pad your CV, so I encourage you to think of this project as
+an opportunity to create something toward that goal while also
+satisfying course requirements. Here are the rules:
+\begin{enumerate}
+\item You may work by yourself or in teams of two.
+\item The goals are (i) to use methods you have learned in class or, if you wish, to develop a
+new method and (ii) present a theoretical analysis of the methods.
+\item You will provide: (i) a proposal, (ii) a progress report and (iii) and final report.
+\item The reports should be well-written.
+\end{enumerate}
+
+{\em Proposal.} A one page proposal is due Thursday, September 13. It
+should contain the following information: (1) project title, (2) team
+members, (3) description of the data (if used), (4) precise description of the
+question you are trying to answer, (5) preliminary plan
+for analysis, (6) reading list. (Papers you will need to read). 
+
+{\em Progress Report.} Due Thursday, November 15. Three
+pages. Include: (i) a high quality introduction, (ii) what have you
+done so far, (iii) what remains to be done and (iv) a clear
+description of the division of work among teammates, if applicable. 
+
+{\em Project Spotlight.} On Thursday, December 6, you will have 10
+minutes to present your project to the class. 
+
+{\em Final Report: Due Thursday, December 13 at noon.} The paper should be in
+ICML format. Maximum 8 pages. (You can have an appendix with extra
+material if needed. If working in groups of two, please include a
+clear description of the contribution of each person in the appendix.)
+You should submit a pdf file electronically. It should have the
+following format: 
+\begin{enumerate}
+\item Introduction. A quick summary of the problem, methods and results.
+\item Problem description. Detailed description of the problem. What
+  question are you trying to address? What have people done before?
+\item Methods. Description of methods used and algorithms.
+\item Theory. This section should contain a cogent discussion of the
+  theoretical properties of the 
+  method. It should also discuss under what assumptions the methods
+  should work and under 
+  what conditions they will fail. You should do your best to develop
+  new theoretical results.
+\item Simulation studies and/or data example. Results of applying the
+  method to simulated and/or real data sets.
+\item Conclusions. What is the answer to the question? What did you learn about the methods?
+Mention any future directions of interest.
+\end{enumerate}
+
+{\em Notes:} You can also choose to do a purely theoretical project. In
+this case, you should choose an area of interest, read several key
+papers, and provide a clear, unified summary of the theoretical
+results in these papers. The formatting and deadline are to suggest that, perhaps
+with some extra effort, you can submit this paper to an ML conference
+(perhaps ICML) or further develop it for journal submission. This is a
+research opportunity, and I will help you throughout the process to
+take advantage, including modifications for eventual submission.
+
+{\bf Rough schedule of topics}
+
+\begin{enumerate}
+\item Introduction (1 week)
+\item Concentration inequalities (3 weeks)
+
+Laws of large numbers; Sub-Gaussian random variables; Hoeffding; McDiarmid;
+\item Convexity and optimization (3 weeks)
+
+Convex sets and functions; Duality; Gradient descent; Coordinate
+descent; Projected gradient; 
+\item Uniform convergence (3 weeks)
+
+Rademacher averages; VC-dimension; Covering numbers; Chaining;
+\item Minimax lower bounds (4 weeks)
+
+\end{enumerate}
+
+
+\bibliography{AllReferences}
+
+\end{document}
