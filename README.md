@@ -2,8 +2,8 @@
 
 [Stay tuned for updates]
 
-| Week | TR | Topic | Scribe | Other info |
-|:---|:---:|:---|:---|:---|
+ Week | TR | Topic | Scribe | Other info 
+:---|:---:|:---|:---|:---
 1 8/22  | T | Syllabus + review    | DJM |
         | R |                      | DJM |
 2 8/29  | T | Optimization theory  | Dmitrii |
