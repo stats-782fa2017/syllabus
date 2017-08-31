@@ -9,9 +9,9 @@
 |2 - 8/29  | T | Cancelled
 |        | R |      Optimization theory  | Dmitrii |   
 |3 - 9/5   | T | Duality            | Inhak | Homework 1 assigned |
-|        | R |                      | Nikolai | Paper: TBA (DJM) |
+|        | R |                      | Nikolai | [Nonparanormal Information Estimation](http://proceedings.mlr.press/v70/singh17a.html) (DJM) |
 |4 - 9/12  | T | KKT, conjugates      | Arash | 
-|        | R |                      | Yisu | Paper: TBA (DJM)|
+|        | R |                      | Yisu | [Minimax-optimal semi-supervised regression on unknown manifolds](http://proceedings.mlr.press/v54/moscovich17a.html) (DJM)|
 |5 - 9/19  | T | Numerical techniques | Jivitesh | 
 |        | R |                      | Benjamin | [An Adaptive Test of Independence with Analytic Kernel Embeddings](http://proceedings.mlr.press/v70/jitkrittum17a.html) (Yisu)|
 |6 - 9/26  | T | Concentration I      | Chao | Homework 1 due
