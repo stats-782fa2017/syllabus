@@ -31,7 +31,7 @@
 |13 - 11/9 | T | Covering numbers     | Inhak | 
 |        | R |                      | Nikolai | [Minimax Gaussian Classification \& Clustering](http://proceedings.mlr.press/v54/li17a.html) (Inhak)|
 |14 - 11/16| T | Minimaxity I         | Arash | Homework 3 due |
-|        | R |                      | Yisu |  |
+|        | R |                      | Yisu | [Lower Bounds on Active Learning for Graphical Model Selection](http://proceedings.mlr.press/v54/scarlett17a.html) (Ben)|
 |        | T | Thanksgiving break   |
 |        | R |
 |15 - 11/28| T | Minimaxity II        | Jivitesh | 
