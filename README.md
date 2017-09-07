@@ -18,7 +18,7 @@
 |        | R |                      | Adithya | [How Close Are the Eigenvectors of the Sample and Actual Covariance Matrices?](http://proceedings.mlr.press/v70/loukas17a.html) (Nikolai)|
 |7 - 10/3  | T | Concentration II     | Lei | Homework 2 assigned |
 |        | R |                      | Kiran| [Efficient Distributed Learning with Sparsity](http://proceedings.mlr.press/v70/wang17f.html) (Arash)
-|8 - 10/10 | T | Concentration III    | Nikolai | 
+|8 - 10/10 | T | Concentration III    | Dmitrii | 
 |        | R |                      | Inhak | [Latent Feature Lasso](http://proceedings.mlr.press/v70/yen17a.html) (Lei) |
 |9 - 10/17 | T | Concentration IV     | Yisu | 
 |        | R |                      | Arash | [Active Learning for Cost-Sensitive Classification](http://proceedings.mlr.press/v70/krishnamurthy17a.html) (Chao) |
