@@ -13,7 +13,7 @@
 |4 - 9/12  | T | KKT, conjugates      | Arash | 
 |        | R |                      | Yisu | [Minimax-optimal semi-supervised regression on unknown manifolds](http://proceedings.mlr.press/v54/moscovich17a.html) (DJM)|
 |5 - 9/19  | T | Numerical techniques | Jivitesh | 
-|        | R |                      | Benjamin | [An Adaptive Test of Independence with Analytic Kernel Embeddings](http://proceedings.mlr.press/v70/jitkrittum17a.html) (Yisu)|
+|        | R |                      | Benjamin | [Adaptive Feature Selection: Computationally Efficient Online Sparse Linear Regression under RIP](http://proceedings.mlr.press/v70/kale17a.html) (Yisu)|
 |6 - 9/26  | T | Concentration I      | Chao | Homework 1 due
 |        | R |                      | Adithya | [How Close Are the Eigenvectors of the Sample and Actual Covariance Matrices?](http://proceedings.mlr.press/v70/loukas17a.html) (Nikolai)|
 |7 - 10/3  | T | Concentration II     | Lei | Homework 2 assigned |
