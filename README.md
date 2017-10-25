@@ -22,9 +22,9 @@
 |        | R |                      | Inhak | [Latent Feature Lasso](http://proceedings.mlr.press/v70/yen17a.html) (Lei) |
 |9 - 10/17 | T | Concentration IV     | Yisu | 
 |        | R |                      | Arash | [Active Learning for Cost-Sensitive Classification](http://proceedings.mlr.press/v70/krishnamurthy17a.html) (Chao) |
-|10 - 10/24| T | Uniform convergence  | Benjamin | Homework 2 due
-|        | R |                      | Jivitesh | [An Information-Theoretic Route from Generalization in Expectation to Generalization in Probability](http://proceedings.mlr.press/v54/alabdulmohsin17a.html) (Adithya) |
-|11 - 10/31| T | Rademacher           | Adithya | Homework 3 assigned
+|10 - 10/24| T | Uniform convergence  | Benjamin | 
+|        | R |                      | Jivitesh | |
+|11 - 10/31| T | Rademacher           | Adithya | Homework 2 due, Homework 3 assigned
 |        | R |                      | Chao | [Learning Theory for Conditional Risk Minimization](http://proceedings.mlr.press/v54/zimin17a.html) (Jivitesh) |
 |12 - 11/2 | T | VC theory            | Kiran |  |
 |        | R |                      | Lei | [Phase Retrieval Meets Statistical Learning Theory: A Flexible Convex Relaxation](http://proceedings.mlr.press/v54/bahmani17a.html)  (Dmitrii) |
@@ -35,7 +35,7 @@
 |        | T | Thanksgiving break   |
 |        | R |
 |15 - 11/28| T | Minimaxity II        | Jivitesh | 
-|        | R |                      | Benjamin |  |
+|        | R |                      | Benjamin | [An Information-Theoretic Route from Generalization in Expectation to Generalization in Probability](http://proceedings.mlr.press/v54/alabdulmohsin17a.html) (Adithya) |
 |16 - 12/5 | T | Project presentations
 |        | R |                      
    
