@@ -3,7 +3,7 @@
 [Stay tuned for updates]
 
 | Week | TR | Topic | Scribe | Other info |
-|:------|:---:|:---|:---|:---|
+|:----------|:---:|:---|:---|:---|
 |1 - 8/22  | T | Syllabus + review    | DJM | |
 |        | R |                      | DJM |
 |2 - 8/29  | T | Cancelled
@@ -26,15 +26,13 @@
 |        | R |                      | Jivitesh | |
 |11 - 10/31| T | Rademacher           | Adithya | Homework 2 due, Homework 3 assigned
 |        | R |                      | Chao | [Learning Theory for Conditional Risk Minimization](http://proceedings.mlr.press/v54/zimin17a.html) (Jivitesh) |
-|12 - 11/2 | T | VC theory            | Kiran |  |
+|12 - 11/7   | T | Upper bounds           | Kiran |  |
 |        | R |                      | Lei | [Phase Retrieval Meets Statistical Learning Theory: A Flexible Convex Relaxation](http://proceedings.mlr.press/v54/bahmani17a.html)  (Dmitrii) |
-|13 - 11/9 | T | Covering numbers     | Inhak | 
-|        | R |                      | Nikolai | [Minimax Gaussian Classification \& Clustering](http://proceedings.mlr.press/v54/li17a.html) (Inhak)|
-|14 - 11/16| T | Minimaxity I         | Arash | Homework 3 due |
-|        | R |                      | Yisu | [Lower Bounds on Active Learning for Graphical Model Selection](http://proceedings.mlr.press/v54/scarlett17a.html) (Ben)|
+|13 - 11/14 | T | Lower bounds     | Nikolai | 
+|        | R |                      | None | [Minimax Gaussian Classification \& Clustering](http://proceedings.mlr.press/v54/li17a.html) (Inhak) [Lower Bounds on Active Learning for Graphical Model Selection](http://proceedings.mlr.press/v54/scarlett17a.html) (Ben)|
 |        | T | Thanksgiving break   |
 |        | R |
-|15 - 11/28| T | Minimaxity II        | Jivitesh | 
+|15 - 11/28| T | Lower bounds II        | Jivitesh |  Homework 3 due? |
 |        | R |                      | Benjamin | [An Information-Theoretic Route from Generalization in Expectation to Generalization in Probability](http://proceedings.mlr.press/v54/alabdulmohsin17a.html) (Adithya) |
 |16 - 12/5 | T | Project presentations
 |        | R |                      
